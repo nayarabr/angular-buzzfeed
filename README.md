@@ -1,3 +1,15 @@
+# Repositório criado para armazenar o CLONE do desafio "Criando um clone do BuzzFeed com Angular" o bootcamp de Desenvolvimento Frontend com Angular da plataforma Dio (Digital Innovation One)
+### Features:
+- Fonte principal do projeto
+- Tamanho do título do quiz
+- Botão "Fazer o quiz novamente!" adicionado ao fim do quiz.
+---------------
+### Olá! Sou Nayara Bastos 💜
+#### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-886CE4?style=for-the-badge)](https://web.dio.me/users/nayarabr1992)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-bastos/)
+
+-----------------
 # ProjetoBuzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
