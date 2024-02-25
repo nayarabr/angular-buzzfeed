@@ -1,4 +1,4 @@
-# Repositório criado para armazenar o CLONE do desafio "Criando um clone do BuzzFeed com Angular" o bootcamp de Desenvolvimento Frontend com Angular da plataforma Dio (Digital Innovation One)
+# Repositório criado para armazenar o CLONE do desafio "Criando um clone do BuzzFeed com Angular" do bootcamp de Desenvolvimento Frontend com Angular da plataforma Dio (Digital Innovation One)
 ### Features:
 - Fonte principal do projeto
 - Tamanho do título do quiz
