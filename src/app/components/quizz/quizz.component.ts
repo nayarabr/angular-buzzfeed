@@ -38,7 +38,6 @@ export class QuizzComponent implements OnInit {
       console.log(this.questionIndex)
       console.log(this.questionMaxIndex)
     }
-
   }
 
   playerChoose(value:string){
@@ -73,6 +72,10 @@ export class QuizzComponent implements OnInit {
     })
 
     return result
+  }
+
+  load() {
+    location.reload()
   }
 
 }

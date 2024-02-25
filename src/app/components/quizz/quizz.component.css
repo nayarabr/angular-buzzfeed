@@ -12,7 +12,7 @@
   margin-bottom: 10px;
 }
 
-.quizz_logo > h3{
+.quizz_logo > h2{
   margin-top: 20px;
 }
 
@@ -72,4 +72,23 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.quizz_results button{
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+}
+
+.quizz_results button:hover{
+  background-color: #5cbf2a;
 }
