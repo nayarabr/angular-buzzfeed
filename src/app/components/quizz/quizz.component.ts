@@ -22,6 +22,8 @@ export class QuizzComponent implements OnInit {
 
   finished:boolean = false
 
+  resultButton: string = "Fazer o quiz novamente!"
+
   constructor() { }
 
   ngOnInit(): void {
